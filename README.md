@@ -1,6 +1,10 @@
-# test-vue-router
+# Base-project-example
 
-This template should help get you started developing with Vue 3 in Vite.
+This template is an example of a build-app in Vuejs v3 and using Vitejs. I used the original model from Vite but I had fiew things like:
+- vue-router - multipage application
+- vue-meta - managing metadata in vue (WARNING, vue-meta is an alpha version for Vue 3)
+- sass - using scss language
+- bootstrap
 
 ## Recommended IDE Setup
 
